@@ -15,10 +15,5 @@ Just some good ol’ React stuff:
 - 💅 Clean UI (we try our best 😅)
 - 🚀 Hosted on Vercel like a boss
 
----
-
-## 🧩 Run It Locally
-
-1. Clone the repo  
-   ```bash
+ 
     
